@@ -1,4 +1,3 @@
-# Leetcode-Solutions
 # Data Structures & Algorithms
 
 This repository contains my solutions to **Data Structures and Algorithms (DSA)** problems as I learn and improve my problem-solving skills.
