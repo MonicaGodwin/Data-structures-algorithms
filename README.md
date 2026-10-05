@@ -86,3 +86,19 @@ The focus is on **consistent practice and understanding**, rather than simply co
 ### Learning in Progress
 
 > *The goal is not to memorize solutions, but to learn how to solve problems.*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MonicaGodwin/Data-structures-algorithms/tree/master/0014-longest-common-prefix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MonicaGodwin/Data-structures-algorithms/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MonicaGodwin/Data-structures-algorithms/tree/master/0014-longest-common-prefix) |
+<!---LeetCode Topics End-->
